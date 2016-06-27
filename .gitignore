@@ -1,0 +1,6 @@
+# Tout ignorer sauf le fichier .gitignore
+*
+!.gitignore
+
+# sauf la config conemu
+!ConEmu.xml
